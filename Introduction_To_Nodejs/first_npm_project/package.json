@@ -1,0 +1,16 @@
+{
+  "name": "first_npm_project",
+  "version": "1.0.0",
+  "description": "First npm demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.6",
+    "nodemon": "^2.0.16"
+  }
+}
